@@ -1,16 +1,12 @@
 # 🛡️ AI-Network-Intrusion-Detection
 
-> An intelligent cybersecurity system that detects malicious network traffic using Machine Learning and the CICIDS2017 dataset.
-
----
+An intelligent cybersecurity system that detects malicious network traffic using Machine Learning and the CICIDS2017 dataset.
 
 ## 🚀 About Project
 
 This project focuses on building a **Network Intrusion Detection System (NIDS)** using Machine Learning to classify network traffic as **Normal** or **Attack Traffic**.
 
 Traditional security systems struggle with unknown threats. This project uses AI to automatically learn attack patterns and improve cyber defense.
-
----
 
 ## 🐍 Tech Stack
 
@@ -21,8 +17,6 @@ Traditional security systems struggle with unknown threats. This project uses AI
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
-
----
 
 ## 📂 Dataset
 
@@ -40,7 +34,6 @@ This dataset contains real-world network traffic with both normal and malicious 
 🔹 Infiltration  
 🔹 Benign Traffic  
 
----
 
 ## ⚙️ Implementation Steps
 
@@ -75,7 +68,6 @@ Trained multiple Machine Learning models:
 ✅ KNN  
 ✅ SVM  
 
----
 
 ## 📊 Model Performance
 
@@ -87,7 +79,6 @@ Trained multiple Machine Learning models:
 | KNN | 98.1% |
 | SVM | 96.7% |
 
----
 
 ## 🏆 Best Model
 
@@ -100,7 +91,6 @@ Trained multiple Machine Learning models:
 | 🎯 Recall | 99.0% |
 | 🎯 F1-Score | 99.0% |
 
----
 
 ## 🔥 Project Highlights
 
@@ -110,7 +100,6 @@ Trained multiple Machine Learning models:
 ✅ High-performance cyber attack detection  
 ✅ Real-world cybersecurity use case  
 
----
 
 ## 📓 Jupyter Notebooks Included
 
@@ -119,7 +108,6 @@ Trained multiple Machine Learning models:
 📌 Model Training Notebook  
 📌 Model Evaluation Notebook  
 
----
 
 ## 🎯 Applications
 
@@ -128,7 +116,6 @@ Trained multiple Machine Learning models:
 🛡️ Threat Detection  
 📚 Research & Learning  
 
----
 
 ## 👨‍💻 Author
 
